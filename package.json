@@ -1,0 +1,15 @@
+{
+  "name": "6genablers",
+  "version": "0.0.1",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.21.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@prb/math": "^4.0.2"
+  }
+}

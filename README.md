@@ -1,2 +1,1 @@
-# NxGenT
-NxGenT project
+# NxGenT project
