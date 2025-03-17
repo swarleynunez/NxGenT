@@ -11,7 +11,7 @@ var (
 
 	// Main CLI title
 	title = `---------------------
---- NxGenT v0.5.0 ---
+--- NxGenT v0.5.1 ---
 ---------------------`
 
 	// Root CLI command

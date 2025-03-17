@@ -1,8 +1,8 @@
 package inputs
 
 import (
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/bindings"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/core/bindings"
+	"github.com/swarleynunez/NxGenT/core/utils"
 )
 
 var SLA1 = []bindings.TypesSLAMetric{

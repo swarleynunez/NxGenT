@@ -1,7 +1,7 @@
 package inputs
 
 import (
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/types"
+	"github.com/swarleynunez/NxGenT/core/types"
 )
 
 // All good (100%-0%)

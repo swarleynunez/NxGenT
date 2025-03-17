@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/manager"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/types"
+	"github.com/swarleynunez/NxGenT/core/manager"
+	"github.com/swarleynunez/NxGenT/core/types"
 	"net"
 	"net/http"
 )

@@ -2,7 +2,7 @@ package types
 
 import (
 	"github.com/ethereum/go-ethereum/common"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/bindings"
+	"github.com/swarleynunez/NxGenT/core/bindings"
 	"math/big"
 )
 

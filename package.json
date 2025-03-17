@@ -1,7 +1,7 @@
 {
-  "name": "6genablers",
-  "version": "0.0.1",
-  "license": "MIT",
+  "name": "NxGenT",
+  "version": "0.5.1",
+  "license": "AGPL",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "hardhat": "^2.21.0",

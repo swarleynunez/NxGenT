@@ -3,10 +3,10 @@ package manager
 import (
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/bindings"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/eth"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/monitor"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/core/bindings"
+	"github.com/swarleynunez/NxGenT/core/eth"
+	"github.com/swarleynunez/NxGenT/core/monitor"
+	"github.com/swarleynunez/NxGenT/core/utils"
 	"strconv"
 	"time"
 )

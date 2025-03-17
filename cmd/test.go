@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/manager"
+	"github.com/swarleynunez/NxGenT/core/manager"
 )
 
 const testShortMsg = ""

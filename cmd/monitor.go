@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/shirou/gopsutil/v4/process"
 	"github.com/spf13/cobra"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/core/utils"
 	"os"
 	"strconv"
 	"strings"

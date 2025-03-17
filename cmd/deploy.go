@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 	"github.com/spf13/cobra"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/manager"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/core/manager"
+	"github.com/swarleynunez/NxGenT/core/utils"
 )
 
 const deployShortMsg = "Deploy and configure a new NxGenT smart contract"

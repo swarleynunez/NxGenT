@@ -4,7 +4,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/gorilla/rpc/v2"
 	"github.com/gorilla/rpc/v2/json"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/core/utils"
 )
 
 // Receiver

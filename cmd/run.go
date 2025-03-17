@@ -3,10 +3,10 @@ package cmd
 import (
 	"fmt"
 	"github.com/spf13/cobra"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/eth"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/manager"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/rpc"
+	"github.com/swarleynunez/NxGenT/core/eth"
+	"github.com/swarleynunez/NxGenT/core/manager"
+	"github.com/swarleynunez/NxGenT/core/utils"
+	"github.com/swarleynunez/NxGenT/rpc"
 	"net/http"
 	"os"
 )

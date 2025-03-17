@@ -1,4 +1,4 @@
-module gitlab.uoclabs.uoc.es/kison/6GENABLERS
+module github.com/swarleynunez/NxGenT
 
 go 1.21.4
 

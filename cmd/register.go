@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 	"github.com/spf13/cobra"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/eth"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/manager"
+	"github.com/swarleynunez/NxGenT/core/eth"
+	"github.com/swarleynunez/NxGenT/core/manager"
 )
 
 const registerShortMsg = "Register trust node in the configured NxGenT smart contract"

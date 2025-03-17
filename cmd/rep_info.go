@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/spf13/cobra"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/eth"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/manager"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/core/eth"
+	"github.com/swarleynunez/NxGenT/core/manager"
+	"github.com/swarleynunez/NxGenT/core/utils"
 )
 
 const repInfoShortMsg = "Get the current reputation of a trust node (by EOA)"

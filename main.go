@@ -1,8 +1,8 @@
 package main
 
 import (
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/cmd"
-	"gitlab.uoclabs.uoc.es/kison/6GENABLERS/core/utils"
+	"github.com/swarleynunez/NxGenT/cmd"
+	"github.com/swarleynunez/NxGenT/core/utils"
 )
 
 func main() {
